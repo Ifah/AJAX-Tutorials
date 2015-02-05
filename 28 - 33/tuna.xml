@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<response>
+	<people>
+		<person>
+			<name>
+				Mohamed Ifah
+			</name>
+			<ssn>
+				3215-789
+			</ssn>
+		</person>
+		<person>
+			<name>
+				Abc Qwe
+			</name>
+			<ssn>
+				6547-325
+			</ssn>
+		</person>
+		<person>
+			<name>
+				Abc Qwe
+			</name>
+			<ssn>
+				6547-325
+			</ssn>
+		</person>
+	</people>
+</response>

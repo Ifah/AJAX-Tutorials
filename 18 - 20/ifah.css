@@ -1,0 +1,30 @@
+.darkTable{
+	border: 3px solid #CC0000;
+	background-color: #0099CC;
+	color: white;
+}
+.darkHead{
+	font-family: Verdana;
+	font-weight: bold;
+	font-size: 18px;
+}
+.darkItems{
+	font-family: Arial;
+	font-size: 16px;
+}
+
+
+.lightTable{
+	border: 10px solid #CC3399;
+	background-color: #FFFF00;
+}
+.lightHead{
+	font-family: Georgia;
+	font-weight: bold;
+	font-size: 15px;
+}
+.lightItems{
+	font-family: Georgia;
+	font-size: 14px;
+	font-style: italic;
+}
